@@ -7,7 +7,8 @@ package com.mycompany.pompesig;
 
 /**
  * Créé le 17 oct. 2018 à 14:00:48
- * @author germain
+ * @author Germain SIPIERE
+ *         Clément BOYER
  */
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
