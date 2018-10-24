@@ -22,6 +22,8 @@ public class PompeSig {
     /**
      * @param args the command line arguments
      */
+    
+    // TODO mettre cette fonction dans un objet
     public static void connect(){
         // RECUPERATION de L'OS
         System.out.println(System.getProperty("os.name"));
@@ -51,17 +53,7 @@ public class PompeSig {
                            "\\____/\\__,_/  /_/   /_/  |_/____/         \n" +
                            "                                          ");
         
-//        // RECUPERATION de L'OS
-//        System.out.println(System.getProperty("os.name"));
-//        String os =System.getProperty("os.name");
-//        
-//        // Indique le chemin pour le chromedriver
-//        // en fonction de l'os
-//        if (os.equalsIgnoreCase("mac os x")){
-//        System.setProperty("webdriver.chrome.driver", "chromedriver");
-//        } else if (os.equalsIgnoreCase("windows 10")){
-//            System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-//        }
+        
         connect();
         WebDriver driver = new ChromeDriver();
 
