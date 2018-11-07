@@ -8,4 +8,7 @@ pompeSig/src/main/java/com/.DS_Store
 pompeSig/src/main/java/com/mycompany/.DS_Store
 pompeSig/src/main/java/com/mycompany/pompesig/.DS_Store
 pompeSig/.DS_Store
-.DS_Store
+*.DS_Store
+*.class
+*.jar
+*.class
