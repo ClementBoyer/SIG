@@ -8,7 +8,30 @@ pompeSig/src/main/java/com/.DS_Store
 pompeSig/src/main/java/com/mycompany/.DS_Store
 pompeSig/src/main/java/com/mycompany/pompesig/.DS_Store
 pompeSig/.DS_Store
-*.DS_Store
+
+
+
+
+# Compiled class file
 *.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
 *.jar
-*.class
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# For mac #
+*.DS_Store
