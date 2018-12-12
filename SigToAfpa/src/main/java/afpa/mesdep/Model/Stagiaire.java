@@ -88,7 +88,6 @@ public class Stagiaire
     public String getDateEligible() {
         return pol_date;
     }
-
     public void setDateEligible(String dateEligible) {
         this.pol_date = dateEligible;
     }
